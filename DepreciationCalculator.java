@@ -8,6 +8,7 @@ public class DepreciationCalculator {
         double initialValue = scanner.nextDouble();
 
         System.out.print("Enter depreciation rate (in %): ");
+        
         double rate = scanner.nextDouble();
 
         System.out.print("Enter number of years: ");
