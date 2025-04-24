@@ -7,6 +7,7 @@ public class BattingAverageCalculator {
         System.out.print("Enter total runs scored: ");
         int runs = scanner.nextInt();
 
+        //
         System.out.print("Enter total innings played: ");
         int innings = scanner.nextInt();
 
