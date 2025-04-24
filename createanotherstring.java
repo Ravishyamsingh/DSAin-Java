@@ -4,7 +4,7 @@ public class createanotherstring {
     public static void main(String[] args) {
         // Define the main string
         String main_string = "Python 3.0";
-
+// Extract the last three characters from the main string
         // Extract the last three characters from the main string
         String last_three_chars = main_string.substring(main_string.length() - 3);
 
