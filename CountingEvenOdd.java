@@ -7,6 +7,7 @@ class count {
     static void CountingEvenOdd(int arr[], int arr_size) {
         int even_count = 0;
         int odd_count = 0;
+        
 
         // loop to read all the values in the array
         for (int i = 0; i < arr_size; i++) {
