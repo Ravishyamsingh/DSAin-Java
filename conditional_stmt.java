@@ -8,6 +8,7 @@ public class conditional_stmt {
 //        }
 
         //multiple else if condition
+        //
 
         if(salary>10000){
             salary=salary+2000;
