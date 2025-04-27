@@ -10,6 +10,7 @@ public class modulusnum {
         int a = in.nextInt();  // Read and store the first number
 
         // Prompt the user to input the second number
+        // Check if the first element of the array is 4 or 7 and print the result
         System.out.print("Input the second number: ");
         int b = in.nextInt();  // Read and store the second number
 
