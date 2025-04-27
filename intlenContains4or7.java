@@ -10,7 +10,7 @@ public class intlenContains4or7 {
 
         // Check if the first element of the array is 4 or 7 and print the result
         if (array_nums[0] == 4 || array_nums[0] == 7) {
-            
+            // Check if the first element of the array is 4 or 7 and print the result
             System.out.println("True");
         } else {
             // If the first element is not 4 or 7, check the second element and print the result
