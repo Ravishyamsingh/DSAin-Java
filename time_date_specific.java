@@ -11,6 +11,8 @@ public class time_date_specific {
         // Set the time zone for the calendar to GMT
         cdt.setCalendar(Calendar.getInstance(TimeZone.getTimeZone("GMT")));
 
+        // Read a string from the user
+
         // Display the current date and time in the specified format
         System.out.println("\nNow: " + cdt.format(System.currentTimeMillis()));
     }
