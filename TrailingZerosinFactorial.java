@@ -6,7 +6,9 @@ public class TrailingZerosinFactorial {
         System.out.print("Input a number: "); // Prompt the user to input a number
         int n = in.nextInt(); // Read and store the user's input as 'n'
         int n1 = n; // Create a copy of 'n' to preserve the original value
-        long ctr = 0; // Initialize a variable 'ctr' to count trailing zeros
+        long ctr = 0; 
+        // Read a string from the user
+        // Initialize a variable 'ctr' to count trailing zeros
 
         while (n != 0) {
             ctr += n / 5; // Count the number of trailing zeros by dividing 'n' by 5 and accumulating the result
