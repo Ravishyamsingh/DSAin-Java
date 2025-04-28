@@ -9,6 +9,9 @@ public class sum100prime{
 
         // Iterate while the counter is less than 100
         while (ctr < 100) {
+
+            // Read a string from the user
+            
             n++;
 
             // Check if the number is odd
