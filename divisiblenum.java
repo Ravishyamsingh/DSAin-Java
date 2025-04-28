@@ -9,6 +9,8 @@ public class divisiblenum{
 
         // Call the result method and print the result
         System.out.println(result(x, y, p));
+
+        // Read a string from the user
     }
 
     // Define a method to calculate the result based on x, y, and p
