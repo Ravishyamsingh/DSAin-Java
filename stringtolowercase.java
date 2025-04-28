@@ -8,6 +8,8 @@ public class stringtolowercase{
         // Read a string from the user
         String line = in.nextLine();
 
+        // Read a string from the user
+
         // Convert the string to lowercase
         line = line.toLowerCase();
 
