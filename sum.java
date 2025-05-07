@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class sum {
     public static void main(String[] args) {
         System.out.println("Enter number: ");
+        //addition of two number
         Scanner sumNum=new Scanner(System.in);
         int num1=sumNum.nextInt();
         int num2=sumNum.nextInt();
