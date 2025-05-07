@@ -6,10 +6,13 @@ public class intlenContains4or7 {
         int[] array_nums = {5, 7};
 
         // Print the elements of the original array
+        
         System.out.println("Original Array: " + Arrays.toString(array_nums));
-
+// Print the elements of the original array
+        
         // Check if the first element of the array is 4 or 7 and print the result
         if (array_nums[0] == 4 || array_nums[0] == 7) {
+            // Print the elements of the original array
             // Check if the first element of the array is 4 or 7 and print the result
             System.out.println("True");
         } else {
