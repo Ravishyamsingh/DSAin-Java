@@ -3,6 +3,7 @@ import java.util.*;
 public class modulusnum {
     public static void main(String[] args) {
         // Create a Scanner object for user input
+          // Prompt the user to input the first number
         Scanner in = new Scanner(System.in);
 
         // Prompt the user to input the first number
