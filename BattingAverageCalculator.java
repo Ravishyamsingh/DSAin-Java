@@ -13,6 +13,7 @@ public class BattingAverageCalculator {
         int innings = scanner.nextInt();
 
         
+        
         System.out.print("Enter number of not out innings: ");
         int notOut = scanner.nextInt();
 
