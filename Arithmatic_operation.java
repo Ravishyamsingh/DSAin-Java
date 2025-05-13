@@ -8,6 +8,7 @@ public class Arithmatic_operation {
         int num2 = in.nextInt();
         
         System.out.println("Enter operator");
+        
         char operator =in.next().charAt(0);
         if (operator=='+'){
             System.out.println(num1+num2);
