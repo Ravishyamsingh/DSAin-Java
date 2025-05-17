@@ -12,6 +12,7 @@ public class MedianofArray {
         System.out.println("Original array: " + Arrays.toString(nums));
 
         // Calculate and display the median of the array
+        
         System.out.println("Median of the said array of integers: " + getMedian(nums));
 
         // Define and initialize another array of integers
