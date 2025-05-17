@@ -13,7 +13,9 @@ public class LongestWordDictionary {
             // Check if the current word is longer than the previously found longest word(s)
             if (length > longest_length) {
                 longest_length = length;
-                list.clear(); // Clear the list as a new longest word is found
+                list.clear(); 
+                
+                // Clear the list as a new longest word is found
             }
 
             // If the current word has the same length as the longest word(s), add it to the list
