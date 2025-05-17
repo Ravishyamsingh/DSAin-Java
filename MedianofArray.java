@@ -2,10 +2,13 @@ import java.util.*;
 
 public class MedianofArray {
     public static void main(String[] args) {
+        
         // Define and initialize an array of integers
+        
         int[] nums = {10, 2, 38, 22, 38, 23};
 
         // Display the original array
+        
         System.out.println("Original array: " + Arrays.toString(nums));
 
         // Calculate and display the median of the array
