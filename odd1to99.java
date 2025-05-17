@@ -2,7 +2,9 @@ import java.util.*;
 
 public class odd1to99 {
     public static void main(String[] args) {
+        
         // Iterate through numbers from 1 to 99
+        
         for (int i = 1; i < 100; i++) {
             
             // Check if the number is odd
