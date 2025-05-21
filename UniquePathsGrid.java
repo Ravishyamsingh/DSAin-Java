@@ -8,9 +8,12 @@ public class UniquePathsGrid {
         if (m <= 0 || n <= 0) {
             return 0;
         }
-        int[][] grid = new int[m][n]; // Create a grid to store the number of unique paths
+        int[][] grid = new int[m][n]; 
+        
+        // Create a grid to store the number of unique paths
 
         // Nested loops to iterate through the grid
+        
         for (int i = m - 1; i >= 0; --i) { // Start from the bottom row and move upwards
             for (int j = n - 1; j >= 0; --j) { // Start from the rightmost column and move leftwards
                 grid[i][j] = get_Paths(grid, i, j); // Calculate the unique paths for the current cell
