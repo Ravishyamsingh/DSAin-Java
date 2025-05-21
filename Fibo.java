@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class Fibo {
     public static void main(String[] args) {
+        
+        //Fibonachi number 
+        
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         int a = 0;
@@ -14,6 +17,7 @@ public class Fibo {
             a = temp;
             count++;
         }
+        
         System.out.println(b);
     }
 }
