@@ -10,6 +10,7 @@ public class Typecasting {
         //Typecasting...
 //        int num=(int)(50.3434f);
 //        System.out.println(num);
+        
 
         //Automatically type promotion in expression
 
@@ -18,10 +19,12 @@ public class Typecasting {
 //        byte a=40;
 //        byte b=50;
 //        byte c=100;
+        
 //        int d=a * b / c;
 //        System.out.println(d);
 //        byte b=50;
 //        b=b*2;
+        
 
         int num='A';
         System.out.println(num);
