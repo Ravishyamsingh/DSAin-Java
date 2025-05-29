@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.*;
 class DistinctWaysClimbStairs {
     // Static method to calculate the distinct ways to climb stairs
     public static int climbStairs(int n) {
