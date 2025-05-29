@@ -1,5 +1,5 @@
 import java.util.*;
-
+import java.util.*;
 public class MedianofArray {
     public static void main(String[] args) {
         
