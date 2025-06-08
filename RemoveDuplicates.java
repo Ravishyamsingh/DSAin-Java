@@ -19,6 +19,8 @@ class RemoveDuplicates{
         }
         // The new length of the array is one more than the 'index'
         return index + 1;
+
+        
     }
 
     /* Driver program to test above functions */
