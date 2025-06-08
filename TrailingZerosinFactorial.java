@@ -12,6 +12,9 @@ public class TrailingZerosinFactorial {
         // Read a string from the user
         // Initialize a variable 'ctr' to count trailing zeros
 
+
+
+        
         while (n != 0) {
             ctr += n / 5; // Count the number of trailing zeros by dividing 'n' by 5 and accumulating the result
             n /= 5; // Reduce 'n' by dividing it by 5 for the next iteration
