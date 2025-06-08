@@ -18,6 +18,8 @@ class count {
                 even_count++;
         }
 
+        
+
         System.out.println("Number of even elements = " + even_count
                 + "\nNumber of odd elements = " + odd_count);
     }
