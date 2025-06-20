@@ -1,3 +1,6 @@
+
+
+
 public class reverseNum {
     public static void main(String[] args) {
         int num= 28479;
