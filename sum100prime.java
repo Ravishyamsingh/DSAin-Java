@@ -9,6 +9,7 @@ public class sum100prime{
 
         // Iterate while the counter is less than 100
         while (ctr < 100) {
+            
 
             // Read a string from the user
             
@@ -18,6 +19,10 @@ public class sum100prime{
             if (n % 2 != 0) {
                 // If the number is prime, add it to the sum
                 if (is_Prime(n)) {
+
+
+
+                    
                     sum += n;
                 }
             }
