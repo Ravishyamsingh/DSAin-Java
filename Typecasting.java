@@ -14,7 +14,12 @@ public class Typecasting {
 //        System.out.println(n1);
 
         //Typecasting...
-//        int num=(int)(50.3434f);
+//        int num=(int)(50.3434f)
+
+
+
+
+        
 //        System.out.println(num);
         
 
