@@ -1,5 +1,8 @@
 
 
+
+
+
 import java.util.Arrays;
 
 public class intlenContains4or7 {
