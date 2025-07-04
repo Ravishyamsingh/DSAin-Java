@@ -15,6 +15,10 @@ public class SquareRootCalculation {
 
         // Call the sqrt method to calculate the square root and print the result
         System.out.println(sqrt(n));
+
+
+
+        
     }
 
     // Method to calculate the square root of a number
