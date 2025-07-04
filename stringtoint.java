@@ -13,8 +13,12 @@ public class stringtoint {
         // Read the input string and store it in str1
         String str1 = in.nextLine();
 
+
+        
         // Parse the string as an integer
         int result = Integer.parseInt(str1);
+
+        
 
         // Display the integer value
         System.out.printf("The integer value is: %d", result);
