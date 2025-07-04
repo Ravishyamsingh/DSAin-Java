@@ -12,6 +12,11 @@ public class Fibo {
         int count = 2;
 
         while (count <=n) {
+
+
+
+
+            
             int temp = b;
             b = b+a;
             a = temp;
