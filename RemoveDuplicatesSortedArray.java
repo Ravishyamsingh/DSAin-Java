@@ -13,8 +13,6 @@ class Solution {
         }
         int current_pos = 0;
 
-
-
         
         int moving_pos;
         for (moving_pos = 1; moving_pos < nums.length; moving_pos++) {
