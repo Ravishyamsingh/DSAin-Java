@@ -3,6 +3,7 @@ import java.util.*;
 class DistinctWaysClimbStairs {
     // Static method to calculate the distinct ways to climb stairs
     public static int climbStairs(int n) {
+        
         if (n <= 1) {
             return 1; // If there is 0 or 1 step, there is only 1 way to climb.
         }
