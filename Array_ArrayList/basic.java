@@ -1,3 +1,5 @@
+
+
 package Array_ArrayList;
 
 import java.util.Arrays;
@@ -43,3 +45,4 @@ public class basic {
         System.out.println(Arrays.toString(str));
     }
 }
+
