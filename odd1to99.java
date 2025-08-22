@@ -1,3 +1,5 @@
+
+
 import java.util.*;
 
 public class odd1to99 {
@@ -21,4 +23,5 @@ public class odd1to99 {
         }
     }
 }
+
 
