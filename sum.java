@@ -1,7 +1,3 @@
-
-
-
-
 import java.util.Scanner;
 
 public class sum {
@@ -15,3 +11,4 @@ public class sum {
         System.out.println("Sum is ="+sumN);
     }
 }
+
