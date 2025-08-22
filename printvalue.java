@@ -1,5 +1,3 @@
-
-
 import java.util.Scanner;
 
 class PrintValue {
@@ -40,3 +38,4 @@ class PrintValue {
         printWord(N);
     }
 }
+
