@@ -1,6 +1,3 @@
-
-
-
 import java.util.*;
 public class stringtolowercase{
     public static void main(String[] args) {
@@ -20,3 +17,4 @@ public class stringtolowercase{
         System.out.println(line);
     }
 }
+
