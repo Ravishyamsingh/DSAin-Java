@@ -1,3 +1,6 @@
+
+
+
 import java.util.*;
 
 public class Three_Incre_Adjace_Numbers{
@@ -31,3 +34,4 @@ public class Three_Incre_Adjace_Numbers{
         System.out.printf("\n");
     }
 }
+
