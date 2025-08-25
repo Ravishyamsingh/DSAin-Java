@@ -1,3 +1,5 @@
+
+
 import java.util.*;
 import java.util.Scanner;
 
@@ -11,3 +13,4 @@ public class Temperature {
         System.out.println(tempF);
     }
 }
+
