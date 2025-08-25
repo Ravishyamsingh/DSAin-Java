@@ -1,6 +1,3 @@
-
-
-
 import java.util.Arrays;
 
 class RemoveDuplicates{
@@ -34,3 +31,4 @@ class RemoveDuplicates{
         System.out.println("After removing duplicates, the new length of the array is: " + remove_Duplicates_twice(nums));
     }
 }
+
