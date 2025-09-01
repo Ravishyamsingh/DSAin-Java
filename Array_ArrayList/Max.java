@@ -1,6 +1,4 @@
-
 package Array_ArrayList;
-
 import java.util.Scanner;
 
 public class Max {
@@ -51,5 +49,6 @@ public class Max {
         return maxVal;
     }
 }
+
 
 
