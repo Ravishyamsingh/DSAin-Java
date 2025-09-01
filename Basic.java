@@ -6,7 +6,6 @@ public class Basic {
         
 //            System.out.println("Hello world");
 //        }
-
 //        int count=1;
 //        while(count != 5){
         
@@ -20,3 +19,4 @@ public class Basic {
         }
     }
 }
+
