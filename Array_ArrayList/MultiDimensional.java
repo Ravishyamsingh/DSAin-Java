@@ -1,7 +1,4 @@
-
-
 package Array_ArrayList;
-
 import java.util.Scanner;
 
 public class MultiDimensional {
@@ -10,8 +7,6 @@ public class MultiDimensional {
             1 2 3
             4 5 6
             7 8 9
-
-
          */
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter rows: ");
@@ -39,5 +34,6 @@ public class MultiDimensional {
 
     }
 }
+
 
 
