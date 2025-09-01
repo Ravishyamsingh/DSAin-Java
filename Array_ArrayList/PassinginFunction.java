@@ -9,6 +9,8 @@ public class PassinginFunction {
         System.out.println(Arrays.toString(arr));
         change(arr);
         System.out.println(Arrays.toString(arr));
+         System.out.println(Arrays.toString(arr));
+
 
 
     }
@@ -16,4 +18,5 @@ public class PassinginFunction {
         arr[0]=99;
     }
 }
+
 
