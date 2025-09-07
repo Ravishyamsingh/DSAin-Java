@@ -1,3 +1,6 @@
+
+
+
 import java.util.Scanner;
 import java.util.*;
 public class Fibo {
@@ -26,3 +29,4 @@ public class Fibo {
         System.out.println(b);
     }
 }
+
