@@ -1,3 +1,6 @@
+
+
+
 import java.util.Scanner;
 
 public class CGPACalculator {
@@ -21,3 +24,4 @@ public class CGPACalculator {
         scanner.close();
     }
 }
+
