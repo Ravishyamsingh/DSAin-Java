@@ -1,3 +1,6 @@
+
+
+
 public class CountNum {
     public static void main(String[] args) {
         int n = 234;
@@ -13,4 +16,5 @@ public class CountNum {
         System.out.println( count);
     }
 }
+
 
