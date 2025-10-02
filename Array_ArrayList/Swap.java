@@ -1,3 +1,6 @@
+
+
+
 package Array_ArrayList;
 
 import java.util.Arrays;
@@ -15,5 +18,6 @@ public class Swap {
         arr[index2]=temp;
     }
 }
+
 
 
