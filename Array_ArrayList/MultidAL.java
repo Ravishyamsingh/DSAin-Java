@@ -1,3 +1,7 @@
+
+
+
+
 package Array_ArrayList;
 
 import java.util.ArrayList;
@@ -20,5 +24,6 @@ public class MultidAL {
         System.out.println(list);
     }
 }
+
 
 
