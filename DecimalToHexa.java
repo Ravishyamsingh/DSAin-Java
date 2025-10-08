@@ -7,7 +7,10 @@ public class DecimalToHexa {
         int dec= sc.nextInt();
         String hexa= Integer.toHexString(dec);
         System.out.println(hexa.toUpperCase());
+        String hexa= Integer.toHexString(dec);
+        System.out.println(hexa.toUpperCase());
     }
 }
+
 
 
