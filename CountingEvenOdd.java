@@ -1,9 +1,6 @@
-
-
 // JAVA program to count number of even
 // and odd elements in an array
 import java.util.Scanner;
-
 class count {
 
     static void CountingEvenOdd(int arr[], int arr_size) {
@@ -48,4 +45,5 @@ class count {
         CountingEvenOdd(arr, n);
     }
 }
+
 
