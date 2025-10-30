@@ -9,7 +9,9 @@ public class ArrayList_Example {
         Scanner sc= new Scanner(System.in);
 
         ArrayList<Integer> list=new ArrayList<>();
-//        list.add(12);
+        list.add(12);
+        list.add(22);
+        
 //        list.add(20);
 //        list.add(30);
 //        list.add(42);
@@ -35,4 +37,5 @@ public class ArrayList_Example {
     }
 
 }
+
 
