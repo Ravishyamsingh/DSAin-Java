@@ -1,3 +1,7 @@
+
+
+
+
 import java.util.Scanner;
 
 public class PowerCalculation {
@@ -17,5 +21,6 @@ public class PowerCalculation {
         scanner.close();
     }
 }
+
 
 
