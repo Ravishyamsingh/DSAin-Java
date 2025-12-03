@@ -1,3 +1,9 @@
+
+
+
+
+
+
 package Array_ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
@@ -33,5 +39,6 @@ public class basic {
         System.out.println(Arrays.toString(str));
     }
 }
+
 
 
