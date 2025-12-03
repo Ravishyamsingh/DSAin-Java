@@ -1,8 +1,4 @@
-
-
-
 package Array_ArrayList;
-
 import java.util.Scanner;
 public class jagged_array {
     public static void main(String[] args) {
@@ -23,6 +19,7 @@ public class jagged_array {
         }
     }
 }
+
 
 
 
