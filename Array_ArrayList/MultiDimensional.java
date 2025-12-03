@@ -1,6 +1,3 @@
-
-
-
 package Array_ArrayList;
 import java.util.Scanner;
 
@@ -37,6 +34,7 @@ public class MultiDimensional {
 
     }
 }
+
 
 
 
