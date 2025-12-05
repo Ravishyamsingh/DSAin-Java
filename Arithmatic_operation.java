@@ -1,3 +1,6 @@
+
+
+
 import java.util.*;
 import java.util.Scanner;
 public class Arithmatic_operation {
@@ -33,4 +36,5 @@ public class Arithmatic_operation {
     }
 
 }
+
 
