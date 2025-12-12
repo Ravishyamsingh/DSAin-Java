@@ -2,6 +2,33 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import java.util.*;
 import java.util.Scanner;
 
@@ -26,6 +53,7 @@ public class DepreciationCalculator {
         scanner.close();
     }
 }
+
 
 
 
