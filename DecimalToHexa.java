@@ -1,3 +1,6 @@
+
+
+
 import java.util.Scanner;
 import java.util.*;
 public class DecimalToHexa {
@@ -11,6 +14,7 @@ public class DecimalToHexa {
         System.out.println(hexa.toUpperCase());
     }
 }
+
 
 
 
