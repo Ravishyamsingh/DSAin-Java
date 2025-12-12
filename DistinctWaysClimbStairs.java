@@ -1,3 +1,7 @@
+
+
+
+
 import java.util.*;
 import java.util.*;
 class DistinctWaysClimbStairs {
@@ -24,5 +28,6 @@ class DistinctWaysClimbStairs {
         System.out.println("Distinct ways can you climb to the top: " + climbStairs(steps));
     }
 }
+
 
 
