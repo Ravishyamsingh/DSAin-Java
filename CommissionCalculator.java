@@ -1,11 +1,5 @@
-
-
-
-
-
 import java.util.*;
-
-import java.util.Scanner;
+import java.util.Sanner;
 
 public class CommissionCalculator {
     public static void main(String[] args) {
@@ -24,6 +18,7 @@ public class CommissionCalculator {
         scanner.close();
     }
 }
+
 
 
 
