@@ -1,8 +1,3 @@
-
-
-
-
-
 import java.util.*;
 public class MinPathSumGrid {
     // Static method to find the minimum path sum in a 2D grid
@@ -39,8 +34,10 @@ public class MinPathSumGrid {
                 {3, 1, 2}};
 
         System.out.println("Sum of all numbers along its path: " + minPathSum(grid));
+        System.out.println(" its path"));
     }
 }
+
 
 
 
