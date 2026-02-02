@@ -62,11 +62,13 @@ public class Loop  {
        // int n=1;
         do{      // It will execute atlaest once
             System.out.println(n);
+            System.out.println(n*n);
             n++;
 
         }while(n<=5);
 
     }
 }
+
 
 
