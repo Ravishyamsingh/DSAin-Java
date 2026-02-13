@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class ArithmeticOperationLongWay {
-
     public static void main(String[] args) {
 
         // Step 1: Create Scanner object to take input
@@ -58,3 +57,4 @@ public class ArithmeticOperationLongWay {
         scanner.close();
     }
 }
+
