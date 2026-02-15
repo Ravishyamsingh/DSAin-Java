@@ -1,19 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-import java.util.*;
 import java.util.Scanner;
 
 public class DepreciationCalculator {
@@ -24,7 +8,6 @@ public class DepreciationCalculator {
         double initialValue = scanner.nextDouble();
 
         System.out.print("Enter depreciation rate (in %): ");
-        
         double rate = scanner.nextDouble();
 
         System.out.print("Enter number of years: ");
@@ -37,9 +20,3 @@ public class DepreciationCalculator {
         scanner.close();
     }
 }
-
-
-
-
-
-
