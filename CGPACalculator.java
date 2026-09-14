@@ -5,6 +5,8 @@ public class CGPACalculator {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter number of subjects: ");
+
+        
         int subjects = scanner.nextInt();
 
         double totalGradePoints = 0;
