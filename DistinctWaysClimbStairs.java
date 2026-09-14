@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 import java.util.*;
 import java.util.*;
 class DistinctWaysClimbStairs {
