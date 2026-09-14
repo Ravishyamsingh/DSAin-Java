@@ -6,6 +6,7 @@ class count {
 
     static void CountingEvenOdd(int arr[], int arr_size) {
         int even_count = 0;
+        
         int odd_count = 0;
 
         
